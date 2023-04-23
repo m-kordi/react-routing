@@ -1,0 +1,36 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+    font-size: xx-large;
+    
+}
+ul{
+    background-color: darkkhaki;
+    
+}
+li{
+    width: calc(100%/3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+    
+}
+li a{
+    color: crimson;
+}
+li a:hover{
+    color: chocolate;
+    
+}
+
+.submit-error{
+    margin-top: 10px;
+
+}
+
+
+
+
